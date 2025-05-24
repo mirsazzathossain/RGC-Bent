@@ -34,7 +34,7 @@ class Bent(Dataset):
     """
 
     base_folder = "batches"
-    url = "https://zenodo.org/records/15505113/files/bent_batches.tar.gz?download=1"
+    url = "https://zenodo.org/records/15505390/files/bent_batches.tar.gz?download=1"
     filename = "bent_batches.tar.gz"
     tgz_md5 = "b0f93db1d28dad0561da6f16243b1766"
     train_list: ClassVar[list] = [
